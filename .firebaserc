@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ricrado-s-web"
+  },
+  "targets": {
+    "ricrado-s-web": {
+      "hosting": {
+        "pixi": [
+          "pixijs-examples"
+        ]
+      }
+    }
+  }
+}

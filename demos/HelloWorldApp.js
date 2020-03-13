@@ -9,7 +9,7 @@ const container = new PIXI.Container();
 app.stage.addChild(container);
 
 // Create a new texture
-const texture = PIXI.Texture.from('demos/cat.png');
+const texture = PIXI.Texture.from('cat.png');
 
 //create a sprite
 const sprite = new PIXI.Sprite(texture);
