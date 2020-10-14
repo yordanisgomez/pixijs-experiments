@@ -2,7 +2,7 @@
 
 "congratulations.png":
 {
-	"frame": {"x":1,"y":880,"w":578,"h":772},
+	"frame": {"x":1,"y":1,"w":578,"h":772},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":111,"y":58,"w":578,"h":772},
@@ -10,7 +10,7 @@
 },
 "congratulationsLose.png":
 {
-	"frame": {"x":1,"y":303,"w":575,"h":772},
+	"frame": {"x":1,"y":581,"w":575,"h":772},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":111,"y":58,"w":575,"h":772},
@@ -18,15 +18,23 @@
 },
 "homeBtn.png":
 {
-	"frame": {"x":1,"y":1,"w":72,"h":72},
+	"frame": {"x":775,"y":1,"w":72,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
 	"sourceSize": {"w":72,"h":72}
 },
+"LandScapeBox.png":
+{
+	"frame": {"x":603,"y":1158,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
 "menu.png":
 {
-	"frame": {"x":149,"y":1,"w":600,"h":300},
+	"frame": {"x":1,"y":1158,"w":600,"h":300},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":300},
@@ -34,7 +42,7 @@
 },
 "menuBtn.png":
 {
-	"frame": {"x":75,"y":1,"w":72,"h":72},
+	"frame": {"x":775,"y":75,"w":72,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
@@ -45,8 +53,8 @@
 	"version": "1.0",
 	"image": "buttons.png",
 	"format": "RGBA8888",
-	"size": {"w":774,"h":1459},
+	"size": {"w":860,"h":1459},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:d27dba701b826dcd0bdc68c619739c4e:ddd8b751b9c548adf5f4bdb3a8fe2348:b34c8670b11bb20cb1751a70d3683e22$"
+	"smartupdate": "$TexturePacker:SmartUpdate:c2c0217e53cc3ca71a79ab77dd61ba6d:36504b3a5e214a9c4a15d07a0f85e561:b34c8670b11bb20cb1751a70d3683e22$"
 }
 }
