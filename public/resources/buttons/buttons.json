@@ -2,7 +2,7 @@
 
 "congratulations.png":
 {
-	"frame": {"x":1,"y":1,"w":578,"h":772},
+	"frame": {"x":1,"y":1138,"w":578,"h":772},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":111,"y":58,"w":578,"h":772},
@@ -10,15 +10,31 @@
 },
 "congratulationsLose.png":
 {
-	"frame": {"x":1,"y":581,"w":575,"h":772},
+	"frame": {"x":1,"y":561,"w":575,"h":772},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":111,"y":58,"w":575,"h":772},
 	"sourceSize": {"w":800,"h":889}
 },
+"fullScreenBtnDown.png":
+{
+	"frame": {"x":149,"y":1,"w":98,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":13,"w":98,"h":82},
+	"sourceSize": {"w":100,"h":100}
+},
+"fullScreenBtnUp.png":
+{
+	"frame": {"x":249,"y":1,"w":100,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":100,"h":90},
+	"sourceSize": {"w":100,"h":100}
+},
 "homeBtn.png":
 {
-	"frame": {"x":775,"y":1,"w":72,"h":72},
+	"frame": {"x":1,"y":1,"w":72,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
@@ -26,7 +42,7 @@
 },
 "LandScapeBox.png":
 {
-	"frame": {"x":603,"y":1158,"w":256,"h":256},
+	"frame": {"x":351,"y":1,"w":256,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
@@ -34,7 +50,7 @@
 },
 "menu.png":
 {
-	"frame": {"x":1,"y":1158,"w":600,"h":300},
+	"frame": {"x":1,"y":259,"w":600,"h":300},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":300},
@@ -42,7 +58,7 @@
 },
 "menuBtn.png":
 {
-	"frame": {"x":775,"y":75,"w":72,"h":72},
+	"frame": {"x":75,"y":1,"w":72,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
@@ -53,8 +69,8 @@
 	"version": "1.0",
 	"image": "buttons.png",
 	"format": "RGBA8888",
-	"size": {"w":860,"h":1459},
+	"size": {"w":774,"h":1717},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:c2c0217e53cc3ca71a79ab77dd61ba6d:36504b3a5e214a9c4a15d07a0f85e561:b34c8670b11bb20cb1751a70d3683e22$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f071fe278bef8c3d96a869a88821761b:dc156c4e9f773cb9c28e212da7500057:b34c8670b11bb20cb1751a70d3683e22$"
 }
 }
